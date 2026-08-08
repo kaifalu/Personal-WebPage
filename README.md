@@ -1,5 +1,7 @@
 # Kaifa Lu — Personal Academic Website
 
+https://kaifalu.github.io/Personal-WebPage/
+
 A polished, responsive, no-build academic website designed for GitHub Pages.
 
 ## Public URL
