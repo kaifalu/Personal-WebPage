@@ -8,7 +8,7 @@ A polished, responsive, no-build academic website designed for GitHub Pages.
 
 After deployment to the existing `kaifalu/kaifalu_page` repository, the website is available at:
 
-`https://kaifalu.github.io/kaifalu_page/`
+https://kaifalu.github.io/kaifalu_page/
 
 ## Files
 
